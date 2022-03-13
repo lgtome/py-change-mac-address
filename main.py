@@ -7,7 +7,6 @@ from misc.vars import regex
 from helpers.get_mac import get_mac_address
 
 
-    
 previous_mac, new_mac, interface = get_mac_address()
 
 def init(prev_mac:str,mac:str,interface:str):

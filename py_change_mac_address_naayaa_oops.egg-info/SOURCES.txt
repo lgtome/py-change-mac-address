@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+py_change_mac_address_naayaa_oops.egg-info/PKG-INFO
+py_change_mac_address_naayaa_oops.egg-info/SOURCES.txt
+py_change_mac_address_naayaa_oops.egg-info/dependency_links.txt
+py_change_mac_address_naayaa_oops.egg-info/top_level.txt
